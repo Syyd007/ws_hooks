@@ -1,0 +1,1 @@
+export const tasks=[{id:0,description:"learn html",user:"ABS",isDone:true},{id:1,description:"learn css",user:"SAYED",isDone:false}]
